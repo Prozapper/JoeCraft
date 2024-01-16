@@ -1,2 +1,2 @@
 # JoeCraft
-Best Texture Pack Ever Made
+This is the best texture pack ever made.
